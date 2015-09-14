@@ -1,0 +1,32 @@
+java Main anderson 1 1200000
+172
+java Main anderson 1 1200000
+234
+java Main anderson 1 1200000
+202
+java Main anderson 1 1200000
+207
+java Main anderson 2 1200000
+227
+java Main anderson 2 1200000
+257
+java Main anderson 2 1200000
+219
+java Main anderson 2 1200000
+218
+java Main anderson 3 1200000
+375
+java Main anderson 3 1200000
+309
+java Main anderson 3 1200000
+297
+java Main anderson 3 1200000
+256
+java Main anderson 4 1200000
+449
+java Main anderson 4 1200000
+288
+java Main anderson 4 1200000
+235
+java Main anderson 4 1200000
+251

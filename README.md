@@ -1,2 +1,2 @@
-# MulticoreHW
-Homework/solutions for Multicore Computing
+# MCCHW
+Homeworks for multi-core computing

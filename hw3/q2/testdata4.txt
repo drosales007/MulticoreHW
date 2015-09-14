@@ -1,0 +1,1 @@
+java Main anderson 5 1200000

@@ -1,0 +1,13 @@
+java Main anderson 5 1200000
+5279707
+java Main anderson 5 1200000
+7230452
+java Main anderson 5 1200000
+1740171
+java Main anderson 5 1200000
+5341873
+java Main anderson 6 1200000
+9786167
+java Main anderson 6 1200000
+9843934
+java Main anderson 6 1200000

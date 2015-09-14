@@ -1,0 +1,66 @@
+java Main mcs 1 1200000
+
+212
+java Main mcs 1 1200000
+
+261
+java Main mcs 1 1200000
+
+198
+java Main mcs 1 1200000
+
+183
+java Main mcs 2 1200000
+
+282
+java Main mcs 2 1200000
+
+207
+java Main mcs 2 1200000
+
+243
+java Main mcs 2 1200000
+
+166
+java Main mcs 3 1200000
+
+365
+java Main mcs 3 1200000
+
+219
+java Main mcs 3 1200000
+
+223
+java Main mcs 3 1200000
+
+234
+java Main mcs 4 1200000
+
+259
+java Main mcs 4 1200000
+
+309
+java Main mcs 4 1200000
+
+143
+java Main mcs 4 1200000
+
+182
+java Main mcs 5 1200000
+
+12874429
+java Main mcs 5 1200000
+
+4573432
+java Main mcs 5 1200000
+
+3243003
+java Main mcs 5 1200000
+
+3543558
+java Main mcs 6 1200000
+
+8592577
+java Main mcs 6 1200000
+
+java Main mcs 6 1200000
